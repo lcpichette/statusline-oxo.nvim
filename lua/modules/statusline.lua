@@ -44,14 +44,14 @@ local space = ' '
 ------------------------------------------------------------------------
 
 -- Different colors for mode
-local purple = '#BF616A' --#B48EAD
+local purple = '#A3BE8C' --#B48EAD
 local blue = '#83a598' --#81A1C1
-local yellow = '#fabd2f' --#EBCB8B
-local green = '#8ec07c' --#A3BE8C
-local red = '#fb4934' --#BF616A
+local yellow = '#7aa2f7' --#EBCB8B
+local green = '#bb9af7' --#A3BE8C
+local red = '#f7768e' --#BF616A
 
 -- fg and bg
-local white_fg = '#b8b894'
+local white_fg = '#edf0fc'
 local black_fg = '#282c34'
 local mybg = '#504945'
 
